@@ -1,12 +1,13 @@
 
 # Himanshu Gautam 
+<img align="right" width="200" height="200" src="photoChehra.jpeg">
 
-
+---
 ### Software Engineer with excellent problem-solving skills and ability to perform well in a team. Passionate about coding with a knack for efficiency, scalability, and stable solutions
 
 ## Work Experience
 
-### Guavus, Thales India
+### Guavus, Thales India ([guavus.com](guavus.com))
  - Solving Big Data problems for telecom customers that include
    Data processing in Batch and Stream. Worked on Guavus’s
    Analytics Framework as part of core team.
@@ -15,7 +16,7 @@
  - Closely working with Data Engineers and enabling them to
    productionize Data Processing pipelines for customers.
 
-### Airtel X Labs, Airtel
+### Airtel X Labs, Airtel ([airtel.com](airtel.com))
  - Working closely with product teams at Airtel x-labs in
    developing and managing backend-services built in  java
    based tech stack for multiple products. Engineering solutions
