@@ -2,9 +2,17 @@
 # Himanshu Gautam 
 <img align="right" width="200" height="200" src="photoChehra.jpeg">
 
----
-### Software Engineer with excellent problem-solving skills and ability to perform well in a team. Passionate about coding with a knack for efficiency, scalability, and stable solutions
 
+### Software Engineer with excellent problem-solving skills and ability to perform well in a team. Passionate about coding with a knack for efficiency, scalability, and stable solutions
+---
+
+[![LinkedIn Himanshu Gautam](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h1manshu/)
+[![Gmail Himanshu Gautam](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshugnsit@gmail.com)
+[![Github Himanshu Gautam](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/propainter)
+
+
+
+                                                                                                                                                
 ```
 
 ```
