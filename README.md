@@ -15,6 +15,7 @@
    architecture at Guavus.
  - Closely working with Data Engineers and enabling them to
    productionize Data Processing pipelines for customers.
+   <img align="right" width="100" height="100" src="guavuslogo.jpeg">
 
 ### Airtel X Labs, Airtel ([airtel.com](airtel.com))
  - Working closely with product teams at Airtel x-labs in
@@ -23,6 +24,7 @@
    for large-scale business problems by developing, designing
    and documenting APIs and code base followed by going live
    with features & improvements in CI-CD environment.
+   <img align="right" width="100" height="100" src="xlablogo.jpeg">
 
 ### Naukri.com, Infoedge
  - Implemented and deployed on production automated
@@ -32,7 +34,8 @@
    and Kafka, a Log Monitoring Tool which helps in visualizing all
    application logs making Root Cause Analysis of various
    problems very easy with alerting.
-
+   <img align="right" width="100" height="100" src="naukri_Logo.png">
+   
 ## Technologies
 #### Languages
  - Java
