@@ -5,9 +5,10 @@
 ---
 ### Software Engineer with excellent problem-solving skills and ability to perform well in a team. Passionate about coding with a knack for efficiency, scalability, and stable solutions
 
+```
+
+```
 ## Work Experience
-
-
 ### Guavus, Thales India ([guavus.com](guavus.com))
    <img align="right" width="100" height="100" src="guavuslogo.jpeg">
  - Solving Big Data problems for telecom customers that include
@@ -18,6 +19,9 @@
  - Closely working with Data Engineers and enabling them to
    productionize Data Processing pipelines for customers.
 
+```
+
+```
 
 ### Airtel X Labs, Airtel ([airtel.com](airtel.com))
    <img align="right" width="100" height="100" src="xlablogo.jpeg">
@@ -28,9 +32,12 @@
    and documenting APIs and code base followed by going live
    with features & improvements in CI-CD environment.
 
+```
 
-### Naukri.com, Infoedge
-   <img align="right" width="100" height="100" src="naukri_Logo.png">
+```
+
+### Naukri.com, Infoedge ([naukri.com](naukri.com))
+   <img align="right" width="100" height="50" src="naukri_Logo.png">
  - Implemented and deployed on production automated
    screening of ”About Me” section using machine learning based
    algorithms (accuracy above 93% fraud and abuse detection).
@@ -39,7 +46,17 @@
    application logs making Root Cause Analysis of various
    problems very easy with alerting.
 
-   
+```
+
+```
+### Josh Talks ([joshtalks.com/](https://www.joshtalks.com/))
+   <img align="right" width="100" height="100" src="https://www.joshtalks.com/wp-content/uploads/2020/09/joshlogo.png">
+ - 
+
+```
+
+```
+
 ## Technologies
 #### Languages
  - Java
