@@ -3,6 +3,8 @@
 <img align="right" width="200" height="200" src="photoChehra.jpeg">
 
 
+
+
 ### Software Engineer with excellent problem-solving skills and ability to perform well in a team. Passionate about coding with a knack for efficiency, scalability, and stable solutions
 ---
 
@@ -10,6 +12,11 @@
 [![Gmail Himanshu Gautam](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshugnsit@gmail.com)
 [![Github Himanshu Gautam](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/propainter)
 
+[Personal Profile Page](propainter.github.io)
+
+Work Timings: 9am-10:30pm GMT
+
+P: +91-9910835593
 
 
                                                                                                                                                 
