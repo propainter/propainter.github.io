@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coder.Sale</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Coder.Sale</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:22:36 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Shopify Plugins</title>
+      <link>http://localhost:1313/posts/custom-shopify-plugins/</link>
+      <pubDate>Thu, 05 Dec 2024 00:22:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/custom-shopify-plugins/</guid>
+      <description>&lt;h1 id=&#34;codersale-precision-e-commerce-plugin-development&#34;&gt;Coder.Sale: Precision E-Commerce Plugin Development&lt;/h1&gt;&#xA;&lt;h2 id=&#34;transforming-complex-integration-challenges-into-seamless-solutions&#34;&gt;Transforming Complex Integration Challenges into Seamless Solutions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;our-core-services&#34;&gt;Our Core Services&lt;/h3&gt;&#xA;&lt;h4 id=&#34;-shopify-plugin-development&#34;&gt;🔌 Shopify Plugin Development&lt;/h4&gt;&#xA;&lt;p&gt;Custom plugins that extend your store&amp;rsquo;s functionality, integrated with precision and care.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Payment Gateway Integrations&lt;/li&gt;&#xA;&lt;li&gt;Custom Checkout Flows&lt;/li&gt;&#xA;&lt;li&gt;Third-Party API Connections&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;-woocommerce-extension&#34;&gt;🛒 WooCommerce Extension&lt;/h4&gt;&#xA;&lt;p&gt;Powerful WordPress e-commerce solutions tailored to your unique business requirements.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Payment Method Plugins&lt;/li&gt;&#xA;&lt;li&gt;Shipping &amp;amp; Logistics Integrations&lt;/li&gt;&#xA;&lt;li&gt;Advanced Reporting Tools&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;-comprehensive-development-process&#34;&gt;🛠 Comprehensive Development Process&lt;/h4&gt;&#xA;&lt;p&gt;End-to-end plugin development with meticulous attention to detail.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

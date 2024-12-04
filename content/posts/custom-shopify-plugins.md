@@ -1,3 +1,10 @@
++++
+date = '2024-12-05T00:22:36+05:30'
+draft = false
+title = 'Custom Shopify Plugins'
++++
+
+
 # Coder.Sale: Precision E-Commerce Plugin Development
 
 ## Transforming Complex Integration Challenges into Seamless Solutions
@@ -27,11 +34,11 @@ End-to-end plugin development with meticulous attention to detail.
 
 ### Our Development Promise
 
-✅ Functional, Production-Ready Plugins
-✅ Comprehensive Documentation
-✅ 14-Day Delivery Guarantee
-✅ Complete Source Code Access
-✅ Detailed Code Comments
+- ✅ Functional, Production-Ready Plugins
+- ✅ Comprehensive Documentation
+- ✅ 14-Day Delivery Guarantee
+- ✅ Complete Source Code Access
+- ✅ Detailed Code Comments
 
 ### Typical Project Milestones
 
@@ -83,17 +90,3 @@ End-to-end plugin development with meticulous attention to detail.
 
 **Coder.Sale** | Custom E-Commerce Plugin Solutions
 *Transforming Ideas into Powerful Digital Solutions*
-
-
-
-
-
-```
-# Remove theme submodule
-git submodule deinit -f themes/theme-name
-git rm -f themes/theme-name
-
-# Clean up .gitmodules
-git add .gitmodules
-git commit -m "Removed theme submodule"
-```
