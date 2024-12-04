@@ -1,0 +1,10 @@
+baseURL = "https://coder.sale/"
+languageCode = "en-us"
+title = "Coder.Sale"
+theme = "ananke"
+
+[params]
+  # custom_css = ["css/custom.css"]
+  body_classes = "avenir bg-near-white"
+  post_content_classes = "avenir bg-near-white"
+  date_format = "2 January 2006"
