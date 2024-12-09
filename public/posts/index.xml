@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Coder.Sale</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2024 00:22:36 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 21:51:28 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/posts/about-us/</link>
+      <pubDate>Sun, 08 Dec 2024 21:51:28 +0530</pubDate>
+      <guid>http://localhost:1313/posts/about-us/</guid>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Coder.sale&lt;/strong&gt;, your go-to platform for reliable and high-quality website and plugin development services. Whether you’re looking to build a custom Shopify plugin, a seamless web application, or integrate APIs into your platform, we’ve got you covered!&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-company-factorem-technologies-opc-pvt-ltd&#34;&gt;Our Company: Factorem Technologies (OPC) Pvt. Ltd.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coder.sale&lt;/strong&gt; is proudly operated under &lt;strong&gt;Factorem Technologies (OPC) Pvt. Ltd.&lt;/strong&gt;, a legally registered company in India.&lt;br&gt;&#xA;Corporate Identification Number (CIN): &lt;strong&gt;U72900DL2020OPC372402&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;At Factorem Technologies, we specialize in building cutting-edge software solutions for businesses worldwide. &lt;strong&gt;Coder.sale&lt;/strong&gt; serves as our dedicated service brand, focused on delivering tailored development services that meet your unique business needs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Custom Shopify Plugins</title>
       <link>http://localhost:1313/posts/custom-shopify-plugins/</link>
